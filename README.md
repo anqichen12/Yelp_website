@@ -9,4 +9,4 @@
 	d. In routes folder, it includes all back design. In index.js, we define main, register and login page routes. In search.js, we define all searching query, incluing main pages search (mysql and mongodb) and detail page search. In users.js, we define user login and register routes.
 	e. In views folder, it includes all html pages. 
 
-5.You can also view our project at https://cis550demo.herokuapp.com/ or https://github.com/xuhangc/CIS550.
+5.You can also view our project at https://cis550demo.herokuapp.com/
